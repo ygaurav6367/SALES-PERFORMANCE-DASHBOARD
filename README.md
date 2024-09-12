@@ -56,11 +56,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 For any inquiries, please contact me at [yadavgaurv2003@gmail.com].
-
----
-
-### Instructions
-1. Replace the email placeholder with your actual email address.
-2. Feel free to add any additional sections or details specific to your project.
-
-Is template ko apne project ke details ke saath modify karein aur GitHub repository me README file me shamil karein.
